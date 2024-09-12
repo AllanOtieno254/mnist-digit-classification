@@ -1,4 +1,4 @@
-#Repository Structure:
+# Repository Structure:
 
 mnist-digit-classification/
 │
