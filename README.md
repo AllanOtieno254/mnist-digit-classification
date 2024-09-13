@@ -1,7 +1,6 @@
-# MNIST Digit Classification
+# Project Structure
 
-## Project Structure
-
+```plaintext
 mnist-digit-classification/
 │
 ├── data/                         # Directory for datasets (if necessary, usually .gitignored)
@@ -33,6 +32,7 @@ mnist-digit-classification/
 ├── requirements.txt              # List of dependencies
 ├── setup.py                      # Setup file for the project (if applicable)
 └── LICENSE                       # License file
+
 
 
 # MNIST Digit Classification
