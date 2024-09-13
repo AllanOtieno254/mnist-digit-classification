@@ -50,7 +50,7 @@ To train the model, execute the following script:
 python src/train.py
 
 
-# Model Overview
+ #Model Overview
 The model used in this project is a Convolutional Neural Network (CNN) with the following layers:
 
 Input layer: Takes 28x28 pixel images as input.
