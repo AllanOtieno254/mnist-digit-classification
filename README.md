@@ -122,9 +122,11 @@ You can copy this text directly into your `README.md` file in your GitHub reposi
 **b.** Need help with setting up a specific part of the project (e.g., model architecture in `model.py`)?
 
 
+![img2_output](https://github.com/user-attachments/assets/1105bd59-3ab4-4e18-8c5e-38fca41636e0)
 
 
 
+![img1_output](https://github.com/user-attachments/assets/a2bdd088-6f47-4d59-8e22-e2230da7438e)
 
 
 
