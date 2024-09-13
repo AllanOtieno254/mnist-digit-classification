@@ -1,6 +1,5 @@
 # Project Structure
 
-```plaintext
 mnist-digit-classification/
 │
 ├── data/                         # Directory for datasets (if necessary, usually .gitignored)
