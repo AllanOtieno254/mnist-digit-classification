@@ -1,35 +1,40 @@
-# Repository Structure:
+# MNIST Digit Classification
+
+## Project Structure
+
+```plaintext
 mnist-digit-classification/
 │
-├── data/                       # Directory for datasets (if necessary, usually .gitignored)
-│   ├── raw/                    # Raw, unprocessed data
-│   └── processed/              # Processed data ready for analysis
+├── data/                         # Directory for datasets (if necessary, usually .gitignored)
+│   ├── raw/                      # Raw, unprocessed data
+│   └── processed/                # Processed data ready for analysis
 │
-├── notebooks/                  # Jupyter Notebooks used in the project
-│   ├── 01_data_exploration.ipynb  # Initial data exploration and visualization
+├── notebooks/                    # Jupyter Notebooks used in the project
+│   ├── 01_data_exploration.ipynb # Initial data exploration and visualization
 │   ├── 02_data_preprocessing.ipynb # Data preprocessing and augmentation steps
-│   ├── 03_model_training.ipynb     # Model building and training
-│   └── 04_evaluation.ipynb         # Model evaluation and results analysis
+│   ├── 03_model_training.ipynb   # Model building and training
+│   └── 04_evaluation.ipynb       # Model evaluation and results analysis
 │
-├── src/                        # Source code for model, data processing, etc.
-│   ├── data_processing.py      # Data processing and augmentation scripts
-│   ├── model.py                # Model definition and compilation
-│   ├── train.py                # Training scripts
-│   └── evaluate.py             # Evaluation scripts
+├── src/                          # Source code for model, data processing, etc.
+│   ├── data_processing.py        # Data processing and augmentation scripts
+│   ├── model.py                  # Model definition and compilation
+│   ├── train.py                  # Training scripts
+│   └── evaluate.py               # Evaluation scripts
 │
-├── models/                     # Directory to save trained models
-│   ├── best_model.h5           # Best model based on validation performance
-│   └── model_architecture.png  # Model architecture visualization
+├── models/                       # Directory to save trained models
+│   ├── best_model.h5             # Best model based on validation performance
+│   └── model_architecture.png    # Model architecture visualization
 │
-├── results/                    # Results such as plots, metrics, logs
-│   ├── accuracy.png            # Accuracy plot
-│   ├── confusion_matrix.png    # Confusion matrix
+├── results/                      # Results such as plots, metrics, logs
+│   ├── accuracy.png              # Accuracy plot
+│   ├── confusion_matrix.png      # Confusion matrix
 │   └── classification_report.txt # Classification report
 │
-├── README.md                   # Project README file
-├── requirements.txt            # List of dependencies
-├── setup.py                    # Setup file for the project (if applicable)
-└── LICENSE                     # License file
+├── README.md                     # Project README file
+├── requirements.txt              # List of dependencies
+├── setup.py                      # Setup file for the project (if applicable)
+└── LICENSE                       # License file
+
 
 # MNIST Digit Classification
 
