@@ -40,10 +40,9 @@ mnist-digit-classification/
 ## Description
 This project focuses on building a machine learning model to classify handwritten digits using the MNIST dataset. The MNIST dataset is a well-known dataset in the field of image classification, containing 60,000 training images and 10,000 test images of handwritten digits from 0 to 9. The goal is to create a robust model capable of accurately predicting the digit in an unseen image.
 
-![img1_output](https://github.com/user-attachments/assets/7b9a5c90-ac69-4f3b-b509-7a4f61aae683)
+![img1_output](https://github.com/user-attachments/assets/0472bec3-30fe-4adb-aa2f-1403cd729dc7)
 
-![img2_output](https://github.com/user-attachments/assets/99149c51-4ab9-4c3d-8cb2-f60d0046df42)
-
+![img2_output](https://github.com/user-attachments/assets/c3689d15-b90e-4b1a-b14d-0db965fc5009)
 
 ## Table of Contents
 1. [Introduction](#introduction)
